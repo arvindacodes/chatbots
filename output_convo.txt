@@ -1,0 +1,47 @@
+Initial testing result:
+
+HUMAN ++++ hi
+BOT ++++ lamella lamella lamella fiance fiance fiance subconscious subconscious subconscious subconscious subconscious subconscious wuv wuv wuv wuv lamb lamb lamb
+============================================= after training only one dataset
+HUMAN ++++ hi
+BOT ++++ thanks
+HUMAN ++++ how are u ?
+BOT ++++ thanks
+HUMAN ++++ why only thanks bro 
+BOT ++++ thanks
+HUMAN ++++ hey comon 
+BOT ++++ thanks
+HUMAN ++++ alkwdjal
+BOT ++++ thanks
+============================================= changing the bucket size
+HUMAN ++++ hi
+BOT ++++ you do you  not solution.
+HUMAN ++++ how are u 
+BOT ++++ i no have do you have.
+============================================= training for 1 thousand iterations
+HUMAN ++++ hi
+BOT ++++ thanks
+HUMAN ++++ hello
+BOT ++++ thanks
+============================================= converting the bucket size
+
+HUMAN ++++ hi
+BOT ++++ hi. value . on a character
+============================================= after 12k iterations for both twitter and cornell corpus 
+HUMAN ++++ heyya 
+BOT ++++ go thanks no off .
+HUMAN ++++ can u reply something 
+BOT ++++ going to do you 
+HUMAN ++++ why are u behaving weird 
+BOT ++++ dirtbag news to do you 
+HUMAN ++++ who  created u 
+BOT ++++ do you thanks going do you have
+HUMAN ++++ helloo???
+BOT ++++ yeah .
+HUMAN ++++ hi ...
+BOT ++++ thanks have nice 
+HUMAN ++++ wassup .. 
+BOT ++++ dirtbag news.
+HUMAN ++++ yeah
+BOT ++++  going to do you ?
+=============================================
